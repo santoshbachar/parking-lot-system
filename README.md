@@ -1,4 +1,4 @@
-PARKING LOT SYSTEM (Backend)
+# PARKING LOT SYSTEM (Backend)
 
 The whole idea of this system is stored and manipulated to or from the parking[] variable.
 
@@ -8,7 +8,7 @@ It first must be initialized to be able to store and mainpulate the vehicles.
 
 And this is done by the node at the very begining of the app.js before it starts up the server and listens on port 3000 or Heroku provided port.
 
-CONSTRAINTS / RULES
+## CONSTRAINTS / RULES
 
 1. Parking lot has multiple levels/storeys
 
@@ -25,7 +25,7 @@ Overview ==> Parking lot has multiple levels, each levels has multiple spots and
 For example: Single spot is only for bikes, but it has spaces for cars and buses (in memory data structure). Ofcourse, the program won't allow cars or buses to park there. The program simulation verifies the same.
 
 
-PROGRAM OUTLINE
+## PROGRAM OUTLINE
 
 1. app.js -> Initializes the express and related packages along with the parking system.
 
