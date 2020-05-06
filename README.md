@@ -38,3 +38,6 @@ For example: Single spot is only for bikes, but it has spaces for cars and buses
 5. terminal.js -> intecepts the terminal commands executes it using parking api.
 
 6. test.js -> not a true testing file, but more like a function factory. good for a quick random simulation.
+
+## HOST
+The app is hosted at https://parking-lot-system.herokuapp.com/
