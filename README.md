@@ -42,4 +42,4 @@ For example: Single spot is only for bikes, but it has spaces for cars and buses
 ## HOST
 The app is hosted at https://parking-lot-system.herokuapp.com/
 
-The frontend is hosted in firebase and can be accessed at https://test-e1682.firebaseapp.com/main
+The frontend is hosted in firebase and can be accessed at https://test-e1682.firebaseapp.com/
